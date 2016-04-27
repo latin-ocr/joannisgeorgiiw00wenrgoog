@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisgeorgiiw00wenrgoog_0016.png"; bbox 0 0 2904 4942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 678 1122 744 1192">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 678 1122 744 1192">
+     <span class='ocr_line' id='line_1_1' title="bbox 678 1122 744 1192; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 678 1122 744 1192; x_wconf 85' lang='lat' dir='ltr'><strong>De</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 172 1366 1257 1772">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 172 1366 1257 1772">
+     <span class='ocr_line' id='line_1_2' title="bbox 172 1366 1257 1563; baseline -0.002 -27"><span class='ocrx_word' id='word_1_2' title='bbox 172 1424 516 1536; x_wconf 58' lang='lat' dir='ltr'><strong>Possseos</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 547 1366 988 1534; x_wconf 58' lang='lat' dir='ltr'>hebraicae</span> <span class='ocrx_word' id='word_1_4' title='bbox 1023 1430 1257 1563; x_wconf 73' lang='lat' dir='ltr'>atque</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 525 1662 905 1772; baseline 0.008 -3"><span class='ocrx_word' id='word_1_5' title='bbox 525 1662 905 1772; x_wconf 70' lang='lat' dir='ltr'><strong>Arabicae</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 107 2000 1330 2115">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 107 2000 1330 2115">
+     <span class='ocr_line' id='line_1_4' title="bbox 107 2000 1330 2115; baseline 0 -27"><span class='ocrx_word' id='word_1_6' title='bbox 107 2000 355 2112; x_wconf 78' lang='lat' dir='ltr'>Origine,</span> <span class='ocrx_word' id='word_1_7' title='bbox 375 2003 580 2107; x_wconf 78' lang='lat' dir='ltr'>indole,</span> <span class='ocrx_word' id='word_1_8' title='bbox 597 2014 880 2113; x_wconf 79' lang='lat' dir='ltr'><strong>mutuoque</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 901 2029 1157 2087; x_wconf 78' lang='lat' dir='ltr'><strong>consensu</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1181 2016 1330 2115; x_wconf 72' lang='lat' dir='ltr'><strong>atque</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 557 2234 883 2318">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 557 2234 883 2318">
+     <span class='ocr_line' id='line_1_5' title="bbox 557 2234 883 2318; baseline -0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 557 2234 883 2318; x_wconf 75' lang='lat' dir='ltr'><strong>discrimine</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 462 2549 988 2622">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 462 2549 988 2622">
+     <span class='ocr_line' id='line_1_6' title="bbox 462 2549 988 2622; baseline 0.002 -1"><span class='ocrx_word' id='word_1_12' title='bbox 462 2549 988 2622; x_wconf 66' lang='lat' dir='ltr'><strong>Commutatio.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1456 4942">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1456 4942">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1456 4942; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1456 4942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
